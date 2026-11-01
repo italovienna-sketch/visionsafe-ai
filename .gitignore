@@ -1,0 +1,27 @@
+node_modules/
+dist/
+*.log
+.env
+.env.local
+
+# Modelos e datasets: licenças podem proibir redistribuição
+web/public/models/*.onnx
+web/public/models/manifest.json
+training/.venv/
+training/datasets/
+training/runs/
+training/weights/
+training/exports/
+training/reports/*.json
+*.pt
+*.onnx
+
+# Playwright
+web/test-results/
+web/playwright-report/
+__pycache__/
+.pytest_cache/
+training/colab_upload/
+
+# Cache do TypeScript
+*.tsbuildinfo

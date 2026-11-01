@@ -1,0 +1,17 @@
+{
+  "name": "VisionSafe AI — Protótipo",
+  "short_name": "VisionSafe",
+  "description": "Protótipo independente de verificação de EPIs por visão computacional.",
+  "lang": "pt-BR",
+  "start_url": "./#/overview",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a1a33",
+  "theme_color": "#0a1a33",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

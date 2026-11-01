@@ -1,0 +1,10 @@
+# Cabeçalhos para Cloudflare Pages / Netlify: habilitam WASM multithread (crossOriginIsolated).
+/*
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
+  Permissions-Policy: camera=(self)
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+
+/models/*
+  Cache-Control: no-cache
