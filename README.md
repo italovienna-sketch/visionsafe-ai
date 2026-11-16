@@ -36,4 +36,4 @@ Os arquivos dos modelos não estão neste repositório porque as licenças dos d
 
 ## Sobre
 
-Criado com apoio de ferramentas de IA.
+Protótipo desenvolvido de forma independente como parte de estudos em segurança do trabalho e computação visual.
